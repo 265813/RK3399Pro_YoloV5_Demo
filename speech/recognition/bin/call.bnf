@@ -1,0 +1,94 @@
+﻿#BNF+IAT 1.0 UTF-8;
+!grammar call;
+!slot <want>;
+!slot <dialpre>;
+!slot <dialsuf>;
+!slot <contact>;
+
+//唤醒
+!slot <awaken>;
+
+//控制类
+!slot <control>;
+
+//light
+!slot <lightCat>;
+
+//硬件
+!slot <hard>;
+
+//car
+!slot <drive>;
+
+//pay
+!slot <using>;
+!slot <pay>;
+
+//object
+!slot <object>;
+!slot <color>;
+
+//print
+!slot <print>;
+
+
+//print
+!slot <other>;
+
+!start <callstart>;
+<callstart>:[<want>]<awkControl>|<dial>|<lightControl>|<hardControl>|<carControl>|<payControl>|<objectControl>|<printControl>|<otherControl>;
+<awkControl>:<awaken>;
+<want>:我想|我要|请|帮我|我想要|请帮我;
+<dial>:<dialpre><contact>[<dialsuf>];
+<dialpre>:打电话给!id(10001)|打给!id(10001)|拨打!id(10001)|拨打电话给!id(10001)|呼叫!id(10001)|
+打一个电话给!id(10001)|打个电话给!id(10001)|给|拨通!id(10001)|
+接通!id(10001)|呼叫!id(10001)|呼叫给!id(10001)|打!id(10001);
+<dialsuf>:打电话!id(10001)|打个电话!id(10001)|打一个电话!id(10001)|
+拨打电话!id(10001)|拨电话!id(10001)|拨个电话!id(10001)|呼个电话!id(10001)|
+的电话!id(10001)|的号码!id(10001)|的手机!id(10001)|
+的办公电话!id(10001)|的移动号码!id(10001)|的联通号码!id(10001)|
+的电信号码!id(10001)|客服电话!id(10001);
+<contact>:丁伟;
+
+//唤醒
+<awaken>:小陆小陆;
+
+//控制
+<control>:打开|关闭|启动|停止|抓取|放下|开始|停止;
+
+//灯光类
+<lightCat>:红灯|绿灯|黄灯|灯|紫灯;
+<lightControl>:<control><lightCat>;
+
+//硬件
+<hard>:屏幕|摄像头|风扇|窗帘|空调|门禁|门锁;
+<hardControl>:<control><hard>;
+
+//car
+<drive>:自动驾驶;
+<carControl>:启动|停止|前进|后退|左转|右转|刹车|加速|跟随行驶|车道修正|<control><drive>;
+
+//pay
+<using>:刷脸|刷卡;
+<pay>:支付;
+<payControl>:<using><pay>;
+
+
+//objects
+<object>:物体;
+<color>:红色|黄色|绿色;
+<objectControl>:<control><object>|<control><color><object>;
+
+//print
+<print>:3D打印|激光雕刻;
+<printControl>:<control><print>;
+
+//other
+<other>:上一层楼|下一层楼|01234|0123|0358|购物结算|采集摄像头图像|算法识别图像;
+<otherControl>:<other>;
+
+
+
+
+
+

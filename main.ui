@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#Form{background-image: url(:/img/img/bg_1.png);}
+
+QPushButton#start{border-image: url(:/img/img/start_on.png);}
+QPushButton#start:pressed{border-image: url(:/img/img/start_off.png);}
+
+QPushButton#stop{border-image: url(:/img/img/stop_on.png);}
+QPushButton#stop:pressed{border-image: url(:/img/img/stop_off.png);}
+
+</string>
+  </property>
+  <widget class="QPushButton" name="start">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>850</y>
+     <width>264</width>
+     <height>217</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="stop">
+   <property name="geometry">
+    <rect>
+     <x>720</x>
+     <y>850</y>
+     <width>264</width>
+     <height>217</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>170</y>
+     <width>1080</width>
+     <height>720</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QTextBrowser" name="textBrowser">
+   <property name="geometry">
+    <rect>
+     <x>1160</x>
+     <y>250</y>
+     <width>661</width>
+     <height>571</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font:20pt &quot;微软雅黑&quot;;color:rgb(158,164,178);background-color:transparent;border:none;
+</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="exitbutton">
+   <property name="geometry">
+    <rect>
+     <x>1740</x>
+     <y>10</y>
+     <width>145</width>
+     <height>100</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>20</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>exitbutton</zorder>
+
+
+
+
+ </widget>
+ <resources>
+  <include location="color.qrc"/>
+ </resources>
+ <connections/>
+</ui>

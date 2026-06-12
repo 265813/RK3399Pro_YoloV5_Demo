@@ -1,0 +1,264 @@
+============================================================
+Time  2025/08/10 20:02:24 090 
+============================================================
+[2025/08/10 20:02:24 091] tts        676  SYS_MSG_REGCB param0 =  msp_status_cb  param1 =  func(5c014a30) 
+[2025/08/10 20:02:24 094] config     43   use general cloud  
+[2025/08/10 20:02:24 101] tts_cloud  1417 SYS_MSG_REGCB_CLOUD param0 =   msp_status_cb  param1 =  func(5c014a30) 
+[2025/08/10 20:02:24 102] tts        647  TTS_MSG_SSB  
+[2025/08/10 20:02:24 102] tts        375  params =  engine_type = local,voice_name=xiaoyan, text_encoding = UTF8, tts_res_path = fo|res/tts/xiaoyan.jet;fo|res/tts/common.jet, sample_rate = 16000, speed = 50, volume = 80, pitch = 50, rdn = 2  
+[2025/08/10 20:02:24 102] tts        412  ssb|use local  
+[2025/08/10 20:02:24 102] tts        349  local_session_begin  
+[2025/08/10 20:02:24 110] tts        654  TTS_MSG_SYN  0  
+[2025/08/10 20:02:24 110] tts        451  synth|use local  
+[2025/08/10 20:02:24 114] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 114] tts        485  get audio|use local  
+[2025/08/10 20:02:24 114] tts        527  0  nil  1  
+[2025/08/10 20:02:24 117] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 117] tts        485  get audio|use local  
+[2025/08/10 20:02:24 117] tts        527  0  nil  1  
+[2025/08/10 20:02:24 118] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 118] tts        485  get audio|use local  
+[2025/08/10 20:02:24 118] tts        527  0  nil  1  
+[2025/08/10 20:02:24 119] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 119] tts        485  get audio|use local  
+[2025/08/10 20:02:24 119] tts        527  0  nil  1  
+[2025/08/10 20:02:24 120] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 120] tts        485  get audio|use local  
+[2025/08/10 20:02:24 120] tts        527  0  nil  1  
+[2025/08/10 20:02:24 121] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 121] tts        485  get audio|use local  
+[2025/08/10 20:02:24 122] tts        527  0  nil  1  
+[2025/08/10 20:02:24 123] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 123] tts        485  get audio|use local  
+[2025/08/10 20:02:24 123] tts        527  0  nil  1  
+[2025/08/10 20:02:24 124] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 124] tts        485  get audio|use local  
+[2025/08/10 20:02:24 125] tts        527  0  nil  1  
+[2025/08/10 20:02:24 126] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 126] tts        485  get audio|use local  
+[2025/08/10 20:02:24 126] tts        527  0  nil  1  
+[2025/08/10 20:02:24 127] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 127] tts        485  get audio|use local  
+[2025/08/10 20:02:24 127] tts        527  0  nil  1  
+[2025/08/10 20:02:24 128] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 128] tts        485  get audio|use local  
+[2025/08/10 20:02:24 129] tts        527  0  nil  1  
+[2025/08/10 20:02:24 129] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 129] tts        485  get audio|use local  
+[2025/08/10 20:02:24 130] tts        527  0  nil  1  
+[2025/08/10 20:02:24 130] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 130] tts        485  get audio|use local  
+[2025/08/10 20:02:24 130] tts        527  0  nil  1  
+[2025/08/10 20:02:24 131] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 131] tts        485  get audio|use local  
+[2025/08/10 20:02:24 131] tts        527  0  nil  1  
+[2025/08/10 20:02:24 132] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 133] tts        485  get audio|use local  
+[2025/08/10 20:02:24 133] tts        527  0  nil  1  
+[2025/08/10 20:02:24 133] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 134] tts        485  get audio|use local  
+[2025/08/10 20:02:24 134] tts        527  0  nil  1  
+[2025/08/10 20:02:24 134] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 135] tts        485  get audio|use local  
+[2025/08/10 20:02:24 135] tts        527  0  nil  1  
+[2025/08/10 20:02:24 136] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 136] tts        485  get audio|use local  
+[2025/08/10 20:02:24 136] tts        527  0  nil  1  
+[2025/08/10 20:02:24 137] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 137] tts        485  get audio|use local  
+[2025/08/10 20:02:24 137] tts        527  0  nil  1  
+[2025/08/10 20:02:24 138] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 138] tts        485  get audio|use local  
+[2025/08/10 20:02:24 138] tts        527  0  nil  1  
+[2025/08/10 20:02:24 139] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 139] tts        485  get audio|use local  
+[2025/08/10 20:02:24 139] tts        527  0  nil  1  
+[2025/08/10 20:02:24 140] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 140] tts        485  get audio|use local  
+[2025/08/10 20:02:24 140] tts        527  0  nil  1  
+[2025/08/10 20:02:24 141] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 141] tts        485  get audio|use local  
+[2025/08/10 20:02:24 141] tts        527  0  nil  1  
+[2025/08/10 20:02:24 142] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 142] tts        485  get audio|use local  
+[2025/08/10 20:02:24 142] tts        527  0  nil  1  
+[2025/08/10 20:02:24 142] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 142] tts        485  get audio|use local  
+[2025/08/10 20:02:24 143] tts        527  0  nil  1  
+[2025/08/10 20:02:24 143] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 143] tts        485  get audio|use local  
+[2025/08/10 20:02:24 143] tts        527  0  nil  1  
+[2025/08/10 20:02:24 144] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 144] tts        485  get audio|use local  
+[2025/08/10 20:02:24 144] tts        527  0  nil  1  
+[2025/08/10 20:02:24 145] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 145] tts        485  get audio|use local  
+[2025/08/10 20:02:24 145] tts        527  0  nil  1  
+[2025/08/10 20:02:24 146] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 146] tts        485  get audio|use local  
+[2025/08/10 20:02:24 146] tts        527  0  nil  1  
+[2025/08/10 20:02:24 147] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 147] tts        485  get audio|use local  
+[2025/08/10 20:02:24 147] tts        527  0  nil  1  
+[2025/08/10 20:02:24 148] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 148] tts        485  get audio|use local  
+[2025/08/10 20:02:24 148] tts        527  0  nil  1  
+[2025/08/10 20:02:24 149] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 149] tts        485  get audio|use local  
+[2025/08/10 20:02:24 149] tts        527  0  nil  1  
+[2025/08/10 20:02:24 150] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 150] tts        485  get audio|use local  
+[2025/08/10 20:02:24 150] tts        527  0  nil  1  
+[2025/08/10 20:02:24 151] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 151] tts        485  get audio|use local  
+[2025/08/10 20:02:24 151] tts        527  0  nil  1  
+[2025/08/10 20:02:24 152] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 152] tts        485  get audio|use local  
+[2025/08/10 20:02:24 152] tts        527  0  nil  1  
+[2025/08/10 20:02:24 153] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 153] tts        485  get audio|use local  
+[2025/08/10 20:02:24 154] tts        527  0  nil  1  
+[2025/08/10 20:02:24 154] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 155] tts        485  get audio|use local  
+[2025/08/10 20:02:24 155] tts        527  0  nil  1  
+[2025/08/10 20:02:24 156] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 156] tts        485  get audio|use local  
+[2025/08/10 20:02:24 156] tts        527  0  nil  1  
+[2025/08/10 20:02:24 157] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 157] tts        485  get audio|use local  
+[2025/08/10 20:02:24 157] tts        527  0  nil  1  
+[2025/08/10 20:02:24 161] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 161] tts        485  get audio|use local  
+[2025/08/10 20:02:24 161] tts        527  0  nil  1  
+[2025/08/10 20:02:24 164] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 164] tts        485  get audio|use local  
+[2025/08/10 20:02:24 164] tts        527  0  nil  1  
+[2025/08/10 20:02:24 166] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 166] tts        485  get audio|use local  
+[2025/08/10 20:02:24 166] tts        527  0  nil  1  
+[2025/08/10 20:02:24 168] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 168] tts        485  get audio|use local  
+[2025/08/10 20:02:24 168] tts        527  0  nil  1  
+[2025/08/10 20:02:24 169] tts        299  TTS_LOCAL_CB_BEGIN  
+[2025/08/10 20:02:24 171] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 171] tts        485  get audio|use local  
+[2025/08/10 20:02:24 171] tts        527  0  nil  1  
+[2025/08/10 20:02:24 172] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 172] tts        485  get audio|use local  
+[2025/08/10 20:02:24 172] tts        527  0  nil  1  
+[2025/08/10 20:02:24 173] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 173] tts        485  get audio|use local  
+[2025/08/10 20:02:24 173] tts        527  0  nil  1  
+[2025/08/10 20:02:24 174] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 174] tts        485  get audio|use local  
+[2025/08/10 20:02:24 174] tts        527  0  nil  1  
+[2025/08/10 20:02:24 175] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 175] tts        485  get audio|use local  
+[2025/08/10 20:02:24 175] tts        527  0  nil  1  
+[2025/08/10 20:02:24 176] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 176] tts        485  get audio|use local  
+[2025/08/10 20:02:24 176] tts        527  0  nil  1  
+[2025/08/10 20:02:24 177] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 177] tts        485  get audio|use local  
+[2025/08/10 20:02:24 177] tts        527  0  nil  1  
+[2025/08/10 20:02:24 187] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 187] tts        485  get audio|use local  
+[2025/08/10 20:02:24 187] tts        498  local audiolen:  2042  ,ced:  15  
+[2025/08/10 20:02:24 187] tts        527  0  udata(5c071118) 1  
+[2025/08/10 20:02:24 190] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 190] tts        485  get audio|use local  
+[2025/08/10 20:02:24 190] tts        498  local audiolen:  2016  ,ced:  15  
+[2025/08/10 20:02:24 190] tts        527  0  udata(5c07dab8) 1  
+[2025/08/10 20:02:24 193] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 194] tts        485  get audio|use local  
+[2025/08/10 20:02:24 194] tts        498  local audiolen:  1964  ,ced:  15  
+[2025/08/10 20:02:24 194] tts        527  0  udata(5c07d968) 1  
+[2025/08/10 20:02:24 196] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 196] tts        485  get audio|use local  
+[2025/08/10 20:02:24 196] tts        498  local audiolen:  1916  ,ced:  15  
+[2025/08/10 20:02:24 196] tts        527  0  udata(5c07df08) 1  
+[2025/08/10 20:02:24 198] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 199] tts        485  get audio|use local  
+[2025/08/10 20:02:24 199] tts        498  local audiolen:  2018  ,ced:  15  
+[2025/08/10 20:02:24 199] tts        527  0  udata(5c07e158) 1  
+[2025/08/10 20:02:24 201] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 201] tts        485  get audio|use local  
+[2025/08/10 20:02:24 201] tts        498  local audiolen:  2008  ,ced:  15  
+[2025/08/10 20:02:24 201] tts        527  0  udata(5c07d4a8) 1  
+[2025/08/10 20:02:24 202] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 203] tts        485  get audio|use local  
+[2025/08/10 20:02:24 203] tts        498  local audiolen:  2046  ,ced:  15  
+[2025/08/10 20:02:24 203] tts        527  0  udata(5c07d4f8) 1  
+[2025/08/10 20:02:24 205] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 205] tts        485  get audio|use local  
+[2025/08/10 20:02:24 205] tts        498  local audiolen:  1972  ,ced:  15  
+[2025/08/10 20:02:24 206] tts        527  0  udata(5c07d748) 1  
+[2025/08/10 20:02:24 206] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 207] tts        485  get audio|use local  
+[2025/08/10 20:02:24 207] tts        498  local audiolen:  1934  ,ced:  15  
+[2025/08/10 20:02:24 207] tts        527  0  udata(5c07d898) 1  
+[2025/08/10 20:02:24 209] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 209] tts        485  get audio|use local  
+[2025/08/10 20:02:24 209] tts        498  local audiolen:  2016  ,ced:  15  
+[2025/08/10 20:02:24 209] tts        527  0  udata(5c07eb68) 1  
+[2025/08/10 20:02:24 212] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 212] tts        485  get audio|use local  
+[2025/08/10 20:02:24 212] tts        498  local audiolen:  2036  ,ced:  15  
+[2025/08/10 20:02:24 212] tts        527  0  udata(5c07edb8) 1  
+[2025/08/10 20:02:24 213] tts        301  0  0  
+[2025/08/10 20:02:24 213] tts        312  TTS_LOCAL_CB_END,  2  
+[2025/08/10 20:02:24 213] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 213] tts        485  get audio|use local  
+[2025/08/10 20:02:24 213] tts        498  local audiolen:  1944  ,ced:  15  
+[2025/08/10 20:02:24 213] tts        527  0  udata(5c07efa8) 1  
+[2025/08/10 20:02:24 214] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 214] tts        485  get audio|use local  
+[2025/08/10 20:02:24 214] tts        498  local audiolen:  1958  ,ced:  15  
+[2025/08/10 20:02:24 214] tts        527  0  udata(5c07eff8) 1  
+[2025/08/10 20:02:24 215] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 215] tts        485  get audio|use local  
+[2025/08/10 20:02:24 215] tts        498  local audiolen:  2016  ,ced:  15  
+[2025/08/10 20:02:24 215] tts        527  0  udata(5c07f048) 1  
+[2025/08/10 20:02:24 216] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 216] tts        485  get audio|use local  
+[2025/08/10 20:02:24 216] tts        498  local audiolen:  2016  ,ced:  15  
+[2025/08/10 20:02:24 216] tts        527  0  udata(5c07f098) 1  
+[2025/08/10 20:02:24 217] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 217] tts        485  get audio|use local  
+[2025/08/10 20:02:24 217] tts        498  local audiolen:  1976  ,ced:  15  
+[2025/08/10 20:02:24 217] tts        527  0  udata(5c07f0e8) 1  
+[2025/08/10 20:02:24 218] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 218] tts        485  get audio|use local  
+[2025/08/10 20:02:24 218] tts        498  local audiolen:  1932  ,ced:  15  
+[2025/08/10 20:02:24 218] tts        527  0  udata(5c07f138) 1  
+[2025/08/10 20:02:24 219] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 219] tts        485  get audio|use local  
+[2025/08/10 20:02:24 219] tts        498  local audiolen:  2022  ,ced:  15  
+[2025/08/10 20:02:24 219] tts        527  0  udata(5c07f188) 1  
+[2025/08/10 20:02:24 220] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 220] tts        485  get audio|use local  
+[2025/08/10 20:02:24 220] tts        498  local audiolen:  1996  ,ced:  15  
+[2025/08/10 20:02:24 220] tts        527  0  udata(5c07e2c8) 1  
+[2025/08/10 20:02:24 221] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 221] tts        485  get audio|use local  
+[2025/08/10 20:02:24 221] tts        498  local audiolen:  2030  ,ced:  15  
+[2025/08/10 20:02:24 221] tts        527  0  udata(5c07e318) 1  
+[2025/08/10 20:02:24 222] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 222] tts        485  get audio|use local  
+[2025/08/10 20:02:24 222] tts        498  local audiolen:  2006  ,ced:  15  
+[2025/08/10 20:02:24 222] tts        527  0  udata(5c07e368) 1  
+[2025/08/10 20:02:24 223] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 223] tts        485  get audio|use local  
+[2025/08/10 20:02:24 223] tts        498  local audiolen:  2016  ,ced:  15  
+[2025/08/10 20:02:24 223] tts        527  0  udata(5c07e3b8) 1  
+[2025/08/10 20:02:24 224] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 224] tts        485  get audio|use local  
+[2025/08/10 20:02:24 224] tts        498  local audiolen:  2016  ,ced:  15  
+[2025/08/10 20:02:24 224] tts        527  0  udata(5c07e408) 1  
+[2025/08/10 20:02:24 225] tts        657  TTS_MSG_GETAUDIO  0  
+[2025/08/10 20:02:24 225] tts        485  get audio|use local  
+[2025/08/10 20:02:24 225] tts        498  local audiolen:  960  ,ced:  15  
+[2025/08/10 20:02:24 225] tts        527  0  udata(5c07e888) 2  
+[2025/08/10 20:02:24 226] tts        660  TTS_MSG_SSE  
+[2025/08/10 20:02:24 228] tts        585  sse|use local  
+[2025/08/10 20:02:24 231] tts        603  tts exit  

@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="img">
+    <file>./img/position_off.png</file>
+    <file>./img/position_on.png</file>
+    <file>./img/start_off.png</file>
+    <file>./img/stop_off.png</file>
+    <file>./img/reboot.png</file>
+    <file>./img/back.png</file>
+    <file>./img/bg_1.png</file>
+    <file>./img/bg_2.png</file>
+    <file>./img/check_off.png</file>
+    <file>./img/check_on.png</file>
+    <file>./img/start_on.png</file>
+    <file>./img/stop_off.png</file>
+    <file>./img/bg_4.png</file>
+    <file>./img/btn_refresh_normal.png</file>
+    <file>./img/btn_developer_normal.png</file>
+    <file>./img/stop_on.png</file>
+    <file>./img/set.png</file>
+    <file>./img/icon_ok_big.png</file>
+    <file>./img/icon_error_big.png</file>
+    <file>./img/bg_3.png</file>
+    <file>./img/icon_setback.png</file>
+    <file>./img/tips.png</file>
+  </qresource>
+</RCC>

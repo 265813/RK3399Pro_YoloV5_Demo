@@ -1,0 +1,7 @@
+openai
+edge-tts
+pygame
+python-dotenv
+pyaudio
+requests
+numpy
